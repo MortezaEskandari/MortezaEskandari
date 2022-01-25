@@ -1,0 +1,5 @@
+- 👋 Hello, my name is Morteza Eskandari. I am a recent graduate with a Bachlor's in Computer Engineering.
+- 👀 I’m interested in programming and software development.
+- 🌱 I’m currently learning new ways to improve myself as a software developer so that I can advance myself in my career.
+- 💞️ I’m looking to collaborate with other software developers to develop, design and build projects that companies hire us to do.
+- 📫 You can reach me on my email address, Mortezaesk1@gmail.com
