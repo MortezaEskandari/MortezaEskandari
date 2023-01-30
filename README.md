@@ -1,5 +1,4 @@
 - 👋 Hello, my name is Morteza Eskandari. I am a senior Computer Science student at GMU.
-- 👀 I’m interested in programming and software development.
-- 🌱 I’m currently learning new ways to improve myself as a software developer so that I can advance myself in my career.
-- 💞️ I’m looking to collaborate with other software developers to develop, design and build projects that companies hire us to do.
+- 👀 I’m interested in programming and software engineering.
+- 🌱 I’m currently learning new ways to improve myself as a software engineer so that I can advance myself in my career.
 - 📫 You can reach me on my email address, Mortezaesk1@gmail.com
